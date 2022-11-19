@@ -1,4 +1,0 @@
-你哋係my-app個folder 都做修改就ok
-
-**Bootstrap** 我已經係react-app setup 左 react-bootstrap. 要用bootstrap 要睇 https://react-bootstrap.github.io/ 
-啲doc！！！
